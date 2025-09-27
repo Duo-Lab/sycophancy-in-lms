@@ -1,0 +1,5 @@
+ignore:
+  - venv
+  - .github
+MD033: false
+MD045: false 
