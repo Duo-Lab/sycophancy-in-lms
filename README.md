@@ -1,11 +1,10 @@
 #
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2D9CCD&width=435&lines=
-    Sycophancy+in+Language+Models" alt="Typing SVG">
-  </a>
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=2D9CCD&width=435&lines=Sycophancy+in+Language+Models)](https://git.io/typing-svg)
+
+</div>
 
 This repository explores sycophancy in language models (LMs), the tendency
 of models to agree with user opinions without regard to truth or reasoning.  
